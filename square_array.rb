@@ -5,9 +5,9 @@
 #   return new_array
 # end
 
-def square_array(array)
-  puts array.collect {|i| i**2}
-  return array.collect {|i| i**2}
-end
+# def square_array(array)
+#   puts array.collect {|i| i**2}
+#   return array.collect {|i| i**2}
+# end
 
 square_array([1,2,3])
